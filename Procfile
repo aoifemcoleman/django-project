@@ -1,0 +1,1 @@
+web: gunicorn djangoproject2024.wsgi
